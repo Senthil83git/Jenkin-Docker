@@ -1,0 +1,14 @@
+package web.service.demo.of.web.service;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoOfWebServiceApplication {
+
+	public static void main(String[] args) {
+
+		SpringApplication.run(DemoOfWebServiceApplication.class, args);
+	}
+
+}
